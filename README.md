@@ -24,8 +24,9 @@ Atualmente cursando defesa cibernética pela Faculdade Impacta de Tecnologia. En
 
 <p align="left">
   <img alt="n8n" src="https://img.shields.io/badge/n8n-FF4F60?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img alt="CrowdStrike" src="https://img.shields.io/badge/CrowdStrike-FF414D?style=for-the-badge&logo=crowdstrike&logoColor=white"/>
+  <img alt="Falcon" src="https://img.shields.io/badge/Falcon-FF414D?style=for-the-badge&logo=falcon&logoColor=white"/>
   <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-2396F3?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-DCDCDC?style=for-the-badge&logo=linux&logoColor=black"/>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img alt="Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
 </p>
