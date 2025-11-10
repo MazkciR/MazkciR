@@ -52,7 +52,6 @@ Atualmente cursando defesa cibernética pela Faculdade Impacta de Tecnologia. En
 />
 
 <br>
-<br>
 
 ### Estatísticas
 
