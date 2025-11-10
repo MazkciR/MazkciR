@@ -20,13 +20,47 @@ Atualmente cursando defesa cibernética pela Faculdade Impacta de Tecnologia. En
 
 ***
 
-### Experiências
+### Tecnologias
 
-<p align="left">
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-FF4F60?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img alt="Falcon" src="https://img.shields.io/badge/Falcon-FF414D?style=for-the-badge&logo=falcon&logoColor=white"/>
-  <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-2396F3?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-DCDCDC?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img alt="Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
-</p>
+<img 
+    alt="BASH"
+    title="BASH"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+    style="float: left; width: 30px; padding-right: 10px;"
+/>
+<img 
+    alt="LINUX"
+    title="LINUX"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+    style="float: left; width: 30px; padding-right: 10px;"
+/>
+<img 
+    align="left" 
+    alt="N8N"
+    title="N8N"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg"
+/>
+<img 
+    align="left" 
+    alt="CrowdStrike"
+    title="CrowdStrike"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/falcon.svg"
+/>
+
+<br>
+<br>
+
+### Estatísticas
+
+<p>
+  <img
+  align="left"
+  alt="Github Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=MazkciR&show_icons=true&theme=shadow_green&include_all_commits=true&locale=pt-br"
+/>
